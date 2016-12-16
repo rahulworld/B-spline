@@ -125,5 +125,4 @@ public class MainFrame extends JFrame {
         mf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         mf.setVisible(true);
     }
-
 }
