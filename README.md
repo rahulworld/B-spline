@@ -1,3 +1,3 @@
 #B-spline Curve
-####use for 1D signal
+####Use for 1D signal for dispaly and edit
 
