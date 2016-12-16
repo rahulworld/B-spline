@@ -125,7 +125,6 @@ public class BSplineOperations {
         System.out.println("tinr -> " + tinr);
         return (t - ti)/ (tinr - ti);
     }
-    
     public static double getTForIndex(BSplineCurve sBsplineCrv, int i)
     {
         double totalDistance = 0.0;
